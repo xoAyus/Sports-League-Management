@@ -2,7 +2,7 @@
 
 The following project is a Sports League Management System. Specifically it is a Cricket League called the Yuva Premier League (YPL)
 
-We got inspiration for this project from my class 12th School Project.
+We got inspiration for this project from one of our member's class 12th School Project.
 
 The Group Members involved in the following project are:
 
